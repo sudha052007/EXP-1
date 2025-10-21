@@ -55,11 +55,13 @@ b.  KCL:
 Calculation:
 
 a.   KVL: 
- 
+ ![WhatsApp Image 2025-10-21 at 12 53 52 PM](https://github.com/user-attachments/assets/2bbe4ebf-7574-4842-9fbd-3108eb4c2046)
+
 
 
 b.  KCL:
 
+![WhatsApp Image 2025-10-21 at 12 53 52 PM (1)](https://github.com/user-attachments/assets/c4a0d87c-677d-4f91-a2f1-3816e8d98640)
 
 
 
@@ -67,10 +69,12 @@ Tabulation:
 
 a.   KVL:
  
+![WhatsApp Image 2025-10-21 at 12 53 53 PM](https://github.com/user-attachments/assets/98fc0f5d-3464-4839-8f91-f4351cb8abb0)
 
 
 b.  KCL:
 
+![WhatsApp Image 2025-10-21 at 12 53 53 PM (1)](https://github.com/user-attachments/assets/0f8ee9ff-d00f-4537-9c29-c95c0626e143)
 
 
 RESULT:
